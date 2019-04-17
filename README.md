@@ -1,2 +1,2 @@
-# workOn-REACT
+# WorksOn-REACT
 Its a list of basic react apps that I've been creating for the past few days, and I'll for sure upload all the app source codes soon...
